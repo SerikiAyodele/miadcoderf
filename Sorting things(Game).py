@@ -18,7 +18,7 @@ except:
     best_level = level
 
 
-print("Sorting game by Emeka")
+print("Sorting game by Emeka and Mia")
 
 print("e.g Sort the numbers below")
 print("5")
